@@ -1,2 +1,2 @@
 mmaxx = [int(i) for i in range(100)]
-print(mmaxx)
+print(min(mmaxx))
