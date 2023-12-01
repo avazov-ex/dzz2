@@ -1,0 +1,2 @@
+maxx = [int(i) for i in range(100)]
+print(maxx)
